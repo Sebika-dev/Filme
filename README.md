@@ -2,12 +2,9 @@ This project is a Python application designed using Object-Oriented Programming 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Features (Expected or Existing)
+Features:
 
-Add and list movies
-
-Register and manage users
-
-Create and manage personalized watchlists
-
-Save/load data from .txt files
+󠁯•󠁏Add and list movies
+󠁯•󠁏Register and manage users
+󠁯•󠁏Create and manage personalized watchlists
+󠁯•󠁏Save/load data from .txt files
