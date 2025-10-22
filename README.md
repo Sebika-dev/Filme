@@ -1,4 +1,4 @@
-This project is a Python application designed using Object-Oriented Programming (OOP) principles and a clean multi-layered architecture. The application allows managing users, movies, and watchlists.
+This project is a Python application designed using Object-Oriented Programming (OOP) principles and multi-layered architecture. The application allows managing users, movies, and watchlists.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
